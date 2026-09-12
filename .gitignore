@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large/generated model artifacts (uncomment if you don't want to track these)
+# *.joblib
+# *.h5
+# *.pt
